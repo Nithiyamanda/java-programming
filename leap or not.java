@@ -20,11 +20,11 @@ else
 }
 if(leap)
 {
-  System.out.println(" true ");
+  System.out.println(" yes ");
 }
 else
 {
-  System.out.println(" false ");
+  System.out.println(" no ");
 }
   }}
         
